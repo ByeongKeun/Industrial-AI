@@ -4,6 +4,6 @@
 
 <p align="center">
   
-<img src="./김병근_빅데이터 과제_성적처리프로그램(Jupyter 코딩 캡쳐).png"  width="640" height="200">
+<img src="./김병근_빅데이터 과제_성적처리프로그램(Jupyter 코딩 캡쳐).png"  width="640" height="600">
 
 </p>
