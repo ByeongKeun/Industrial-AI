@@ -1,12 +1,9 @@
-## Contacts
+## Python Program
 
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
-
-## Educational Course
+- 빅데이터 과제 등록: 성적 등록 프로그램
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
+<img src="./김병근_빅데이터 과제_성적처리프로그램(Jupyter 코딩 캡쳐).png"  width="640" height="200">
 
 </p>
