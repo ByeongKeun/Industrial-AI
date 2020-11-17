@@ -1,9 +1,13 @@
 # 자기소개(김병근)
  ## 대학원 진행에 대한 나의 생각 
-  
-<div class=pull-left>
+
+<p>
+<div class=pull-right>
 https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif
-</div>  
+ <center>이모지</center>
+</div>
+<p>
+ 
   - 개인적으로는 빅데이터, 인공지능에 대한 일반인들이 아는 정도로만 알고 있었을 뿐,
     실무에 있는 당사자로서 어떻게 접근해야할지 막연할 뿐이였습니다.
   - 회사적으로 현 수준은 단위 공정자동화에 국한된 내용들만 구축하고 있습니다.
