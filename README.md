@@ -1,5 +1,7 @@
 # 자기소개(김병근)
-
+<align="right">  
+<img src="./images/imoge.png"  width="100" height="100">
+</p>
  ## 대학원 진행에 대한 나의 생각 
   - 개인적으로는 빅데이터, 인공지능에 대한 일반인들이 아는 정도로만 알고 있었을 뿐,
     실무에 있는 당사자로서 어떻게 접근해야할지 막연할 뿐이였습니다.
@@ -14,16 +16,17 @@
   
  ## 근무 회사
    - 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
-   - 2010~2020 현재: 청주소재 제조기업 정보팀 근무 중 ............ MES 프로젝트 기획/구축/운영 및 일부 개발
+   - 2010~2020 현재: 청주소재 제조기업(www.powerlogics.kr) 전략정보팀 근무 중 ............ MES/PDM 프로젝트 기획/구축/운영 및 일부 개발      
 
  ## Contacts
 - 이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
  
  ## 역량
  ### 주요업무 기술
-<p align="center">  
-<img src="./images/Main_System.png"  width="600" height="600">
+<p align="left" margin=100>  
+<img src="./images/Main_System.png"  width="600" height="400">
 </p>
+  - 
 </br>
 
  ### 개발언어 기술
