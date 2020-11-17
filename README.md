@@ -30,14 +30,15 @@
 <img src="./images/Main_System.png"  width="600" height="400">
 </p>
   #### 주업무
-   * MES: 제조 전반의 수작업/자동화 데이터를 수집하고, 이를 분석하여 제조관련된 의사결정을 지원하는 시스템
-   * PDM: 제품 개발관련 데이터와 일부 PROCESS를 시스템화 하여, 관련자료의 보안/공유/자산화를 시켜주는 시스템
+   - MES: 제조 전반의 수작업/자동화 데이터를 수집하고, 이를 분석하여 제조관련된 의사결정을 지원하는 시스템
+   - PDM: 제품 개발관련 데이터와 일부 PROCESS를 시스템화 하여, 관련자료의 보안/공유/자산화를 시켜주는 시스템
   #### 부가관리: ERP, EIS 및 기타
 
  ### 개발언어 기술
   구분 | 언어
+  ------------ | -------------
   Application | C#(상), Xplatform(중)
-  Web Application | Asp.Net(중)
+  Web Application | Asp.Net(중), HTML/JavaScrip(하)
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
 
 ### 학과 GitHub Site
