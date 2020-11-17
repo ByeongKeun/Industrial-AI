@@ -1,6 +1,6 @@
-#과제
+# 과제
 
-##기본요약서
+## 기본요약서
  
  구분 | 내용
  ---------- | ----------
@@ -11,5 +11,5 @@ Key Wards	| 바코드, 어린이(5~8세용), 경제관념
 필요 주요 기술	| "PC버전: PC, 바코드 스캐너, 일반 프린터, 프로그램 개발(인쇄,스캐닝,레포트,DB) <br>스마트폰버전: APP 개발, Database"
 
 <p align="left" margin=100>  
-<img src="./images/BarcodeMart.png"  width="400" height="600">
+<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BarcodeMart.png"  width="400" height="600">
 </p>
