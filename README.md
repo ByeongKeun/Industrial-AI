@@ -3,6 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
+이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
 </p>
  
  ## 나에게 대학원이란? 
@@ -21,18 +22,15 @@
    - 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
    - 2010~2020 현재: 청주소재 제조기업(www.powerlogics.kr) 전략정보팀 근무 중 ............ MES/PDM 프로젝트 기획/구축/운영 및 일부 개발      
 
- ## Contacts
-- 이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
- 
  ## 역량
  ### 주요업무 기술: 구축/운영 중인 시스템
 <p align="left" margin=100>  
 <img src="./images/Main_System.png"  width="600" height="400">
 </p>
-  #### 주업무
+  ### 주업무  
    - MES: 제조 전반의 수작업/자동화 데이터를 수집하고, 이를 분석하여 제조관련된 의사결정을 지원하는 시스템
    - PDM: 제품 개발관련 데이터와 일부 PROCESS를 시스템화 하여, 관련자료의 보안/공유/자산화를 시켜주는 시스템
-  #### 부가관리: ERP, EIS 및 기타
+  ### 부가관리: ERP, EIS 및 기타
 
  ### 개발언어 기술
   구분 | 언어
