@@ -1,4 +1,4 @@
-# 자기소개(김병근)
+# 20학번 김병근
 <p>
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
@@ -6,6 +6,10 @@
 이메일: bkkim@powerlogics.kr ; bkkim@cnbu.ac.kr
 </p>
  
+ ## 2020년 2학기 수업
+ - [어프렌티스 프로젝트]: 문제해결방법론 교육 및 프로젝트 준비
+ - [산업 빅데이터 분석 실제]: 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
+
  ## 나에게 대학원이란? 
   - 개인적으로는 빅데이터, 인공지능에 대한 일반인들이 아는 정도로만 알고 있었을 뿐,
     실무에 있는 당사자로서 어떻게 접근해야할지 막연할 뿐이였습니다.
@@ -44,7 +48,3 @@
   Application | C#(상), Xplatform(중), Python(입문 중)
   Web Application | Asp.Net(중)
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
-
-## 2020년 2학기 수업
-- `2020-09` [어프렌티스 프로젝트]: 문제해결방법론 교육 및 프로젝트 준비
-- `2020-09` [산업 빅데이터 분석 실제]: 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
