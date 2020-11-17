@@ -3,7 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
-[이메일:mail](mailto:bkkim@powerlogics.kr)
+이메일: bkkim@powerlogics.kr ; bkkim@cnbu.ac.kr
 </p>
  
  ## 나에게 대학원이란? 
