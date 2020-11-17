@@ -41,7 +41,7 @@
  ### 개발언어 기술
   구분 | 언어
   ------------ | -------------
-  Application | C#(상), Xplatform(중)
+  Application | C#(상), Xplatform(중), Python(하)
   Web Application | Asp.Net(중), HTML/JavaScrip(하)
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
 
