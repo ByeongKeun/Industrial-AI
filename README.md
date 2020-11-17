@@ -3,7 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
-이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
+[이메일:mail](mailto:bkkim@powerlogics.kr)
 </p>
  
  ## 나에게 대학원이란? 
@@ -44,9 +44,11 @@
   Web Application | Asp.Net(중), HTML/JavaScrip(하)
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
 
-### 학과 GitHub Site
+## 2020년 2학기 
 - `2020-10` [어프렌티스 프로젝트](https://github.com/ByeongKeun/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-10` [산업 빅데이터 분석 실제](https://github.com/ByeongKeun/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
+
+### 학과 GitHub Site
 - `2020-10` [기계학습](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
 - `2020-10` [네트워크-통신](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
 - `2020-10` [딥러닝](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/딥러닝): MLP, CNN, RNN 등 딥러닝 활용 프로그래밍
