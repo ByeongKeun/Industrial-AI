@@ -1,7 +1,7 @@
 # 자기소개(김병근)
 <p>
 <div class=insertcode>
-<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="70" height="70">
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
 </p>
  
@@ -25,12 +25,14 @@
 - 이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
  
  ## 역량
- ### 주요업무 기술
+ ### 주요업무 기술: 구축/운영 중인 시스템
 <p align="left" margin=100>  
 <img src="./images/Main_System.png"  width="600" height="400">
 </p>
-  - 
-</br>
+  - 주업무
+   -- MES: 제조 전반의 수작업/자동화 데이터를 수집하고, 이를 분석하여 제조관련된 의사결정을 지원하는 시스템
+   -- PDM: 제품 개발관련 데이터와 일부 PROCESS를 시스템화 하여, 관련자료의 보안/공유/자산화를 시켜주는 시스템
+  - 부가관리: ERP, EIS 및 기타
 
  ### 개발언어 기술
   - Application: C#(상), Xplatform(중)
