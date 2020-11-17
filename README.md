@@ -2,11 +2,10 @@
  ## 대학원 진행에 대한 나의 생각 
 
 <p>
-<div class=pull-right>
-https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif
- <center>이모지</center>
+<div class=insertcode>
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0">
 </div>
-<p>
+
  
   - 개인적으로는 빅데이터, 인공지능에 대한 일반인들이 아는 정도로만 알고 있었을 뿐,
     실무에 있는 당사자로서 어떻게 접근해야할지 막연할 뿐이였습니다.
@@ -18,6 +17,7 @@ https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif
   
   - ps. 특히나 지난 금요일 이교수님께서 github 나머지 공부를 시켜주실때 하신말씀이 많이 와닿습니다
     저조차도 프로그램을 해오던 사람으로써 모든게 생소하고, 기존 개념에 끼워맞추면서 이해할려다 보니 여러모로 쉽지는 않지만... 열심히 해보겠습니다
+  </p>
   
  ## 근무 회사
    - 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
