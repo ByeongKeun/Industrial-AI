@@ -1,15 +1,11 @@
-# **Industrial AI** 
+# 자기소개(김병근)
 
-## Introduction
+ ## 근무 회사
+   - 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
+   - 2010~2020 현재: 청주소재 제조기업 정보팀 근무 중 ............ MES 프로젝트 기획/구축/운영 및 일부 개발
 
-2020년 8월 설립된 재직자 대상 계약학과입니다.
-
-4차 산업혁명을 주도할 창의적 문제해결 능력을 갖춘 인공지능 관련 전문가를 육성하는 것을 목표로 하고 있습니다.
-
-## Contacts
-
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
+ ## Contacts
+- 이메일 : [김병근:mail](mailto:bkkim@cbnu.ac.kr)
 
 ## Educational Course
 
