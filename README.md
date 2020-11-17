@@ -1,5 +1,5 @@
 # 자기소개(김병근)
-<align="right">  
+<p align="right">  
 <img src="./images/imoge.png"  width="100" height="100">
 </p>
  ## 대학원 진행에 대한 나의 생각 
