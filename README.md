@@ -3,7 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
-이메일: bkkim@powerlogics.kr ; bkkim@cnbu.ac.kr
+이메일: bkkim@powerlogics.kr
 </p>
  
  ## 2020년 2학기 수업
@@ -20,7 +20,7 @@
   - 어떻게 도입해야할지 가능은 한 것인지 적당한 시기는 언제인지 어떤 사업분야에 활용해야 할지를.... 남은 2년여 상당히 기대가 됩니다 
   
   - ps. 특히나 지난 금요일 이교수님께서 github 나머지 공부를 시켜주실때 하신말씀이 많이 와닿습니다
-    저조차도 프로그램을 해오던 사람으로써 모든게 생소하고, 기존 개념에 끼워맞추면서 이해할려다 보니 여러모로 쉽지는 않지만... 열심히 해보겠습니다
+    저조차도 프로그램을 해오던 사람으로써 모든게 생소하고, 기존 개념에 끼워맞추면서 이해할려다 보니 여러모로 쉽지는 않습니다... 그래도 열심히 해보겠습니다
     
  ## 근무 회사
    - 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
