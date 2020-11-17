@@ -30,10 +30,11 @@
 
   - 주업무  
    
-   시스템 | 내용
+   업무 | 업무설명 및 내용
   ------------ | -------------
    MES | 제조 전반의 수작업/자동화 데이터를 수집하고, 이를 분석하여 제조관련된 의사결정을 지원하는 시스템
    PDM | 제품 개발관련 데이터와 일부 PROCESS를 시스템화 하여, 관련자료의 보안/공유/자산화를 시켜주는 시스템
+   관리 | MES 파트리더, 프로젝트 리더, 해외공장 (중국/베트남) 등
    
   - 부가관리: ERP, EIS 및 기타
 
@@ -44,13 +45,6 @@
   Web Application | Asp.Net(중), HTML/JavaScrip(하)
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
 
-## 2020년 2학기 
+## 2020년 2학기 수업
 - `2020-10` [어프렌티스 프로젝트](https://github.com/ByeongKeun/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-10` [산업 빅데이터 분석 실제](https://github.com/ByeongKeun/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
-
-### 학과 GitHub Site
-- `2020-10` [기계학습](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
-- `2020-10` [네트워크-통신](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
-- `2020-10` [딥러닝](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/딥러닝): MLP, CNN, RNN 등 딥러닝 활용 프로그래밍
-- `2020-10` [빅데이터분석](https://github.com/ByeongKeun/industrial-AI/tree/master/programming/빅데이터분석): 빅데이터 분석 알고리즘 구현
-- `2020-10` [GitHub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
