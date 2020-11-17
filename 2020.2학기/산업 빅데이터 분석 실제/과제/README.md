@@ -5,7 +5,7 @@
   - 조사 내용 #1
   <p>
 <div class=pull-center>
-<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigdataExample1.png" border="0" width="600" height="700">
+<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigdataExample1.png" border="0" width="600" height="450">
 </div> 
 </p>
 
@@ -19,7 +19,7 @@
    데이터 출력 | 1등부터 10등까지 차례대로 학생들의 정보를 다음과 같이 출력한다.<br>학생이름, 학번, 국어점수, 수학점수, 영어점수, 총점, 평균, 등수
  <p>
 <div class=pull-center>
-<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigDataPythonScore2.png" border="0" width="600" height="600">
+<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigDataPythonScore2.png" border="0" width="500" height="450">
 </div> 
 </p>
 
@@ -28,7 +28,7 @@
   - 자사 검사장비 데이터 소개
   <p>
 <div class=pull-center>
-<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigDataExampleData3.png" border="0" width="600" height="700">
+<img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/BigDataExampleData3.png" border="0" width="600" height="450">
 </div> 
 </p>
   
