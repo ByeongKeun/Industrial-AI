@@ -46,5 +46,5 @@
   DB(SQL/Programming/Admin) | Oracle(상), MS-SQL(중)
 
 ## 2020년 2학기 수업
-- `2020-10` [어프렌티스 프로젝트](https://github.com/ByeongKeun/industrial-AI/tree/master/2020.2학기/어프렌티스 프로젝트): 문제해결방법론 교육 및 프로젝트 준비
-- `2020-10` [산업 빅데이터 분석 실제](https://github.com/ByeongKeun/industrial-AI/tree/master/2020.2학기/산업 빅데이터 분석 실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
+- `2020-10` [어프렌티스 프로젝트](https://github.com/ByeongKeun/industrial-AI/tree/master/2020.2학기/어프렌티스프로젝트): 문제해결방법론 교육 및 프로젝트 준비
+- `2020-10` [산업 빅데이터 분석 실제](https://github.com/ByeongKeun/industrial-AI/tree/master/2020.2학기/산업빅데이터분석실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
