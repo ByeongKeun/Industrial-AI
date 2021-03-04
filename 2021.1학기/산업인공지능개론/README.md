@@ -1,7 +1,4 @@
-## 매주 목요일: 이건명 교수님
-<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/IAI_Overview.png" border="0" width="1000" height="700">
-
- ## 주별 강의 내용   
+## 주별 강의 내용   
 수업내용 | 교재범위 및 과제물
   ------------ | -------------
 인공지능의 개념 | 파이썬 개발환경 설치 및 기본 프로그래밍												
@@ -18,3 +15,6 @@
 딥러닝 모델 II | TensorFlow/PyTorch  프로그래밍 												
 지능로봇 I | ROS 프로그래밍 프로젝트 3(영상인식 시스템)				
 지능로봇 II | ROS 프로그래밍
+
+## 매주 목요일: 이건명 교수님
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/IAI_Overview.png" border="0" width="1000" height="700">
