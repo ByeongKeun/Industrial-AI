@@ -1,16 +1,15 @@
 # 매주 목요일: 이건명 교수님
 <p>
 <div class=insertcode>
-<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/IAI_Overview.png" border="0" width="200" height="200">
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/IAI_Overview.png" border="0" width="1000" height="700">
 </div> 
 
 </p> 
     
  ## 주별 강의 내용
-   - 주차별 
+   
 수업내용 | 교재범위 및 과제물
   ------------ | -------------
-
 인공지능의 개념 | 파이썬 개발환경 설치 및 기본 프로그래밍												
 탐색과 최적화 I | 파이썬 프로그래밍 I												
 탐색과 최적화 II | 파이썬 프로그래밍 II, 탐색 및 최적화 알고리즘												
