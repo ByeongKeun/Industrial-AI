@@ -18,4 +18,4 @@
 합성곱 신경망(CNN) 2 (합성곱 신경망 응용 인식 실습) | CNN 을 이용한  MNIST  분류기 구현							
 딥러닝,  기말고사 ( VGG, GoogLeNet, ResNet  구현 실습) |
 
-<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/_Overview.png" border="0" width="1000" height="700">
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Deeplearning_Overview.png" border="0" width="1000" height="700">
