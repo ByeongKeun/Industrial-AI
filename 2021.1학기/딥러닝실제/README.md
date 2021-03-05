@@ -18,4 +18,4 @@ No | 수업내용 | 교재범위 및 과제물
 14 | 합성곱 신경망(CNN) 2 (합성곱 신경망 응용 인식 실습) | CNN 을 이용한  MNIST  분류기 구현							
 15 | 딥러닝,  기말고사 ( VGG, GoogLeNet, ResNet  구현 실습) |
 
-<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Deeplearning_Overview.png" border="0" width="800" height="500">
+<img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Deeplearning_Overview.png" border="0" width="800" height="450">
