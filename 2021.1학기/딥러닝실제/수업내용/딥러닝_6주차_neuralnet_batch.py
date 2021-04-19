@@ -42,7 +42,7 @@ def predict(network, x):
 x, t = get_data()
 network = init_network()
 
-batch_size = 100 # バッチの数
+batch_size = 100 
 accuracy_cnt = 0
 
 for i in range(0, len(x), batch_size):
