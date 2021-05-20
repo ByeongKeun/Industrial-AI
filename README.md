@@ -45,4 +45,4 @@
   구분 | 언어
   ------------ | -------------
   Application | C#(중), Python(입문 중)
-    DB(SQL/Programming/Admin) | Oracle(중)
+  DB(SQL/Programming/Admin) | Oracle(중)
