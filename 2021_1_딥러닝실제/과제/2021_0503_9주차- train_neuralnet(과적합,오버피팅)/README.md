@@ -5,6 +5,6 @@
  - 위의  [1][2]에서 오버피팅 문제를 기술하시오.
  - 2021.05.03(월)
 
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit1.png" border="0" width="720" height="1040"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit2.png" border="0" width="720" height="1040"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit3.png" border="0" width="720" height="1040"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit1.PNG" border="0" width="720" height="1040"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit2.PNG" border="0" width="720" height="1040"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/overfit3.PNG" border="0" width="720" height="1040"> </p>
