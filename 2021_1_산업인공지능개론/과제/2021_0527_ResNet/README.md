@@ -5,4 +5,3 @@
 <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/Resnet18_1.PNG" border="0" width="720" height="1040"> </p>
 <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/Resnet18_2.PNG" border="0" width="720" height="1040"> </p>
 <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/Resnet18_3.PNG" border="0" width="720" height="1040"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/Resnet18_4.PNG" border="0" width="720" height="1040"> </p>
