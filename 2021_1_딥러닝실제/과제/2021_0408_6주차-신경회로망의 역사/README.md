@@ -1,39 +1,12 @@
-﻿**REPORT**
+# 6주차 과제
+ - 신경회로망의 역사조사 - 최소 3page
+ - 2021.04.12(월) 제출
+ - 산출물: 조사 자료
 
-**신경회로망의 역사**
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history1.png" border="0" width="300" height="300"> </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`                                                        `**학번: 2020254013**
-
-`                                                        `**이름: 김병근** 
-
-![그림입니다.
-원본 그림의 이름: CLP00001c50237b.bmp
-원본 그림의 크기: 가로 300pixel, 세로 350pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.001.png)**한글: 인공신경망**
-
+**한글: 인공신경망**
 **한문: 人工神經網,** 
-
 **영어: artificial neural network, ANN)**
 
 
@@ -62,10 +35,7 @@
 워런 맥컬록(Warren McCulloch)와 월터 피츠(Walter Pitts)의 뉴런의 2진법 논리모델화
 
 논문 발표“A logical calculus of the ideas immanent in nervous activity”
-
-![그림입니다.
-원본 그림의 이름: CLP00001c500001.bmp
-원본 그림의 크기: 가로 689pixel, 세로 370pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.002.png)
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history2.png" border="0" width="500" height="300"> </p>
 
 단위 뉴런의 동작은 단순하나 이러한 뉴런들이 연결되어 하나의 뇌와 같은 네트워크를 이루고 이 네트워크는 보다 복잡한 문제도 해결할 수 있다는 것을 설명하고 있으며, 이 논문이 인공 신경망의 기원이라는 의의를 갖는 것은 생물학적 뉴런의 네트워크를 기계적으로 모델링한 것에 있습니다
 
@@ -109,9 +79,8 @@ Hopefield에 의한 Perceptron에서의 문제점 해결, 해답은 다층 신�
 
 인공신경망 역시, 기존의 단층이 아닌 다층으로 쌓아서 만드는 것으로, 선형 분류에서 벗어나, 현실적인 모든 문제를 분류할 수 있게 되었습니다.(이로써 인공신경망 연구에 다시 불이 붙습니다.)
 
-![그림입니다.
-원본 그림의 이름: CLP00001c500003.bmp
-원본 그림의 크기: 가로 372pixel, 세로 245pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.003.png)※MLP 구조: <입력층> - <히든레이어 : 다층 신경망> - <출력층>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history3.png" border="0" width="372" height="245"> </p>
+※MLP 구조: <입력층> - <히든레이어 : 다층 신경망> - <출력층>
 
 **1986** 
 
@@ -133,9 +102,7 @@ RBM(Restricted Boltzman Machine, 적층제약 볼츠먼 머신), 모든 노드�
 
 심층 신뢰망(DBN)은 RBM을 여러 개의 층으로 구성된 신경망으로써, 탐욕적인 층별 사전훈련(Greedy layer-wise pretraining)알고리즘을 적용하여, 역전파시에 가중치가 0에 가까워지는 문제를 해결 하였습니다
 
-![그림입니다.
-원본 그림의 이름: CLP00001c500005.bmp
-원본 그림의 크기: 가로 686pixel, 세로 306pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.004.png)
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history4.png" border="0" width="686" height="306"> </p>
 
 **※ 당시 논문들은 Neural network라는 단어가 들어가면 논문에 거절당하는 말이 있을 정도로 신경망이 외면 받던 시기 였습니다**
 
@@ -145,13 +112,10 @@ IMAGENET이라는 이미지 분류 대회에서 알렉스(제프리 힌튼 교�
 
 80%이상의 인식률은 거의 불가능이라는 인식이 있을 당시였기에 충격적인 사건이었고, 이후 대부분의 참가팀들이 알고리즘을 딥러닝으로 방향을 돌리는 계기가 되었습니다
 
-![그림입니다.
-원본 그림의 이름: CLP00001c500006.bmp
-원본 그림의 크기: 가로 296pixel, 세로 369pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.005.png)
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history5.png" border="0" width="296" height="369"> </p>
 
 
 **2016 “AlphaGo”**
 
-구글 딥마인드의 알파고와 이세돌 9단의 대국에서, 4:1로 승리하였습니다![그림입니다.
-원본 그림의 이름: CLP00001c500007.bmp
-원본 그림의 크기: 가로 506pixel, 세로 313pixel](Aspose.Words.dc950f07-ba9c-4fd8-bb6a-918f7791fe94.006.png)
+구글 딥마인드의 알파고와 이세돌 9단의 대국에서, 4:1로 승리하였습니다
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history6.png" border="0" width="313" height="369"> </p>
