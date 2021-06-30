@@ -3,6 +3,6 @@
  - 자료: MultiLayerPerceptron.pdf. 파이썬으로 만드는 인공지능(오일석, 이진선 저) 발췌
  - 2021.6.7(월)
  
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_1.PNG" border="0" width="950" height="700"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_2.PNG" border="0" width="950" height="700"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_3.PNG" border="0" width="950" height="700"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_1.PNG" border="0" width="900" height="700"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_2.PNG" border="0" width="900" height="700"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/cnn_lenet5_3.PNG" border="0" width="900" height="700"> </p>
