@@ -3,10 +3,12 @@
  - 2021.04.12(월) 제출
  - 산출물: 조사 자료
 
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history1.png" border="0" width="300" height="300"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/dnn_history1.png" border="0" width="100" height="150"> </p>
 
 **한글: 인공신경망**
+
 **한문: 人工神經網,** 
+
 **영어: artificial neural network, ANN)**
 
 
