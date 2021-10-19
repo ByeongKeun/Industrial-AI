@@ -1,8 +1,7 @@
-# 9주차 과제
- - Decision tree base로 자사 장비 다운타임 시간 추론
- - 산출물: python source, 선정기준 및 출력 image
-
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_01.PNG" border="0" width="960" height="720"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_02.PNG" border="0" width="960" height="720"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_03.PNG" border="0" width="960" height="720"> </p>
-<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_04.PNG" border="0" width="960" height="720"> </p>
+# 2차 과제
+ - 수업시간에 배운 영상처리 기법을 바탕으로, 자사의 영상데이터를 처리하여 유의미한 결과 도출
+ 
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_01.PNG" border="0" width="900" height="500"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_02.PNG" border="0" width="900" height="500"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_03.PNG" border="0" width="900" height="500"> </p>
+<p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no2_04.PNG" border="0" width="900" height="500"> </p>
