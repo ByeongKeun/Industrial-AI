@@ -19,7 +19,7 @@
     영상을 이진화한 후에 사용자로부터 Erosion, Dilation, Opening, Closing에 대한 선택과 횟수를 입력받아서 해당 결과를 출력하시오.
  
  ## 제출 자료
-  <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no1_11.PNG" border="0" width="720" height="960"> </p>
+  <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no1_11.png.PNG" border="0" width="720" height="960"> </p>
   <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no1_12.PNG" border="0" width="720" height="960"> </p>
   <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no1_13.PNG" border="0" width="720" height="960"> </p>
   <p> <img src="https://github.com/ByeongKeun/Industrial-AI/blob/master/images/2021_2_vision_no1_14.PNG" border="0" width="720" height="960"> </p>
