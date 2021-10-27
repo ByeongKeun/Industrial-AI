@@ -3,26 +3,26 @@
    
 번호 | 학기	| 수업	|	과제|	일자|	형태
 -- | ------ | ------- | ------- | -------- | -------
-1 | 1학기 | 어프렌티스 프로젝트	| [팀별 TRIZ기반 아이디어 도출]	| 20-09-15	| 문서
-2 | 1학기 | 어프렌티스 프로젝트 | 개인별 아이디어 기반, 특허출원 서류 작성|	20-12-03	|문서
-3 | 1학기 | 어프렌티스 프로젝트 | 특허사례 찾기|	20-10-05	|문서
-4 | 1학기 | 어프렌티스 프로젝트 | 발명설명서 작성	20-10-26	|문서
-5 | 1학기 | 산업 빅데이터 분석 | 실제	5	빅데이터 활용사례|	20-09-28	|문서
-6 | 1학기 | 산업 빅데이터 분석 | 파이썬 성적처리 프로그램 개발	|20-10-16	|python
-7 | 1학기 | 산업 빅데이터 분석 | 자사 수집데이터 소개|	20-11-02|	문서
-8 | 1학기 | 산업 빅데이터 분석 | 개별과제-시스템 활용방안 검토	| 20-12-05	| 문서
-9 | 2학기 | 딥러닝 실제	|	딥러닝 응용현황	| 21-03-19	| python
-10 | 2학기 | 딥러닝 실제	| IMAGE(matplotlib)	| 21-03-24	| python
-11 | 2학기 | 딥러닝 실제	| 가산기	| 21-04-01	| python
-12 | 2학기 | 딥러닝 실제	| 신경회로망의 역사	| 21-04-08	| 문서
-13 | 2학기 | 딥러닝 실제	| train_neuralnet(과적합,오버피팅)	| 21-05-03	| python
-14 | 2학기 | 딥러닝 실제	| MultiLayerPerceptron	| 21-05-12	| python
-15 | 2학기 | 딥러닝 실제 |	CNNvsLENET5	| 21-05-31	| python
-16 | 2학기 | 산업 인공지능 개론 | Durable rule(자사 경조사비 지급 기준 추론) | 21-04-01 | 문서/Python
-17 | 2학기 | 산업 인공지능 개론 | cision tree(자사 장비다운 시간 예측, 회귀.Regressor) | 21-05-01	| 문서/Python
-18 | 2학기 | 산업 인공지능 개론 | CNN Resnet18모델로 현장의 영상으로 학습 | 21-05-27 | 문서/Python
-19 | 3학기 | 산업 컴퓨터 비전 실제	| 4개 과제(히스토그램 평탄화/주파수&공간 도메인필터링/모폴로지)	| 21-10-13	| 문서/Python
-20 | 3학기 | 지능화 파일럿 프로젝트 | 과제 계획서 작성	| 21-09-08	| 문서
-21 | 3학기 | 지능화 파일럿 프로젝트 | 과제관련 논문 분석	| 21-09-30	| 문서
-22 | 3학기 | 지능화 파일럿 프로젝트 | 프로젝트 설계발표 자료 작성	| 21-09-30	| 문서
+1 | 1학기 | 어프렌티스 프로젝트	| [팀별 TRIZ기반 아이디어 도출](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/1%EC%B0%A8%20%EA%B3%BC%EC%A0%9C_TRIZ)	| 20-09-15	| 문서
+2 | 1학기 | 어프렌티스 프로젝트 | [개인별 아이디어 기반, 특허출원 서류 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8%20%ED%8A%B9%ED%97%88%EC%B6%9C%EC%9B%90) |	20-12-03	|문서
+3 | 1학기 | 어프렌티스 프로젝트 | [특허사례 찾기](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/3%EC%B0%A8%20%ED%8A%B9%ED%97%88%EC%82%AC%EB%A1%80%20%EC%B0%BE%EA%B8%B0) |	20-10-05	|문서
+4 | 1학기 | 어프렌티스 프로젝트 | [발명설명서 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/4%EC%B0%A8%20%EB%B0%9C%EB%AA%85%EC%84%A4%EB%AA%85%EC%84%9C%20%EC%9E%91%EC%84%B1) |	20-10-26	|문서
+5 | 1학기 | 산업 빅데이터 분석 | [실제	5	빅데이터 활용사례](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2020_0928_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%EC%82%AC%EB%A1%80) |	20-09-28	|문서
+6 | 1학기 | 산업 빅데이터 분석 | [파이썬 성적처리 프로그램 개발](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2020_1016_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B1%EC%A0%81%EC%B2%98%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B0%9C%EB%B0%9C)	|20-10-16	|python
+7 | 1학기 | 산업 빅데이터 분석 | [자사 수집데이터 소개](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2020_1102_%EC%9E%90%EC%82%AC%20%EC%88%98%EC%A7%91%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%86%8C%EA%B0%9C) |	20-11-02|	문서
+8 | 1학기 | 산업 빅데이터 분석 | [개인과제-시스템 활용방안 검토](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2020_1205_%EA%B0%9C%EB%B3%84%EA%B3%BC%EC%A0%9C_%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%88)	| 20-12-05	| 문서
+9 | 2학기 | 딥러닝 실제	|	[딥러닝 응용현황](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0319_3%EC%A3%BC%EC%B0%A8-%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%9D%91%EC%9A%A9%ED%98%84%ED%99%A9)	| 21-03-19	| python
+10 | 2학기 | 딥러닝 실제	| [IMAGE(matplotlib)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0324_4%EC%A3%BC%EC%B0%A8-IMAGE(matplotlib))	| 21-03-24	| python
+11 | 2학기 | 딥러닝 실제	| [가산기](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0401_5%EC%A3%BC%EC%B0%A8-%EA%B0%80%EC%82%B0%EA%B8%B0)	| 21-04-01	| python
+12 | 2학기 | 딥러닝 실제	| [신경회로망의 역사](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0408_6%EC%A3%BC%EC%B0%A8-%EC%8B%A0%EA%B2%BD%ED%9A%8C%EB%A1%9C%EB%A7%9D%EC%9D%98%20%EC%97%AD%EC%82%AC)	| 21-04-08	| 문서
+13 | 2학기 | 딥러닝 실제	| [train_neuralnet(과적합,오버피팅)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0503_9%EC%A3%BC%EC%B0%A8-%20train_neuralnet(%EA%B3%BC%EC%A0%81%ED%95%A9%2C%EC%98%A4%EB%B2%84%ED%94%BC%ED%8C%85))	| 21-05-03	| python
+14 | 2학기 | 딥러닝 실제	| [MultiLayerPerceptron](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0512_11%EC%A3%BC%EC%B0%A8-MultiLayerPerceptron)	| 21-05-12	| python
+15 | 2학기 | 딥러닝 실제 |	[CNNvsLENET5](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2021_0531_13%EC%A3%BC%EC%B0%A8-CNNvsLENET5)	| 21-05-31	| python
+16 | 2학기 | 산업 인공지능 개론 | [Durable rule(자사 경조사비 지급 기준 추론)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EA%B3%BC%EC%A0%9C/2021_0401_Durable_rules) | 21-04-01 | 문서/Python
+17 | 2학기 | 산업 인공지능 개론 | [Decision tree(자사 장비다운 시간 예측, 회귀.Regressor)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EA%B3%BC%EC%A0%9C/2021_0501_Decision%20Tree) | 21-05-01	| 문서/Python
+18 | 2학기 | 산업 인공지능 개론 | [CNN Resnet18모델로 현장의 영상으로 학습](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EA%B3%BC%EC%A0%9C/2021_0527_ResNet) | 21-05-27 | 문서/Python
+19 | 3학기 | 산업 컴퓨터 비전 실제	| [4개 과제(히스토그램 평탄화/주파수&공간 도메인필터링/모폴로지)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/1%EC%B0%A8%20%EA%B3%BC%EC%A0%9C_211013)	| 21-10-13	| 문서/Python
+20 | 3학기 | 지능화 파일럿 프로젝트 | [과제 계획서 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/0%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%EA%B3%84%ED%9A%8D%EC%84%9C%20%EC%A0%9C%EC%B6%9C_210908)	| 21-09-08	| 문서
+21 | 3학기 | 지능화 파일럿 프로젝트 | [과제관련 논문 분석](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/1%EC%B0%A8%20%EB%85%BC%EB%AC%B8%EB%B6%84%EC%84%9D_210930)	| 21-09-30	| 문서
+22 | 3학기 | 지능화 파일럿 프로젝트 | [프로젝트 설계발표 자료 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%EB%B0%9C%ED%91%9C_210930)	| 21-09-30	| 문서
 23 | 3학기 | 산업 컴퓨터 비전 실제 | [Term Project(CM 이물검출)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8_Term%20project_211020_CM%20%EC%9D%B4%EB%AC%BC%EC%A7%88%20%EA%B2%80%EC%B6%9C)	| 21-10-20	| 문서/Python
