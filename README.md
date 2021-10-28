@@ -3,7 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
-이메일: ------------------
+이메일: bkkim@cnbu.ac.kr
 </p>
  
  ## 2020년 2학기 수업
