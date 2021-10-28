@@ -1,5 +1,6 @@
 
  ## 포트폴리오
+  - 총 24개: 2021.10.28 최종 Update
    
 번호 | 학기	| 수업	|	과제|	일자|	형태
 -- | ------ | ------- | ------- | -------- | -------
@@ -26,3 +27,5 @@
 21 | 3학기 | 지능화 파일럿 프로젝트 | [과제관련 논문 분석](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/1%EC%B0%A8%20%EB%85%BC%EB%AC%B8%EB%B6%84%EC%84%9D_210930)	| 21-09-30	| 문서
 22 | 3학기 | 지능화 파일럿 프로젝트 | [프로젝트 설계발표 자료 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%EB%B0%9C%ED%91%9C_210930)	| 21-09-30	| 문서
 23 | 3학기 | 산업 컴퓨터 비전 실제 | [Term Project(CM 이물검출)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8_Term%20project_211020_CM%20%EC%9D%B4%EB%AC%BC%EC%A7%88%20%EA%B2%80%EC%B6%9C)	| 21-10-20	| 문서/Python
+24 | 3학기 | 개인 프로젝트 | [SMT라인 연계시스템](https://github.com/ByeongKeun/Industrial-AI/tree/master/%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/MICS)	| 21-10-20	| 문서
+
