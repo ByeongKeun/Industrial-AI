@@ -1,6 +1,6 @@
 
  ## 포트폴리오
-  - 총 24개: 2021.10.28 최종 Update
+  - 총 26개: 2021.11.29 Update
    
 번호 | 학기	| 수업	|	과제|	일자|	형태
 -- | ------ | ------- | ------- | -------- | -------
@@ -28,4 +28,5 @@
 22 | 3학기 | 지능화 파일럿 프로젝트 | [프로젝트 설계발표 자료 작성](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%EB%B0%9C%ED%91%9C_210930)	| 21-09-30	| 문서
 23 | 3학기 | 산업 컴퓨터 비전 실제 | [Term Project(CM 이물검출)](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/2%EC%B0%A8_Term%20project_211020_CM%20%EC%9D%B4%EB%AC%BC%EC%A7%88%20%EA%B2%80%EC%B6%9C)	| 21-10-20	| 문서/Python
 24 | 3학기 | 개인 프로젝트 | [SMT라인 연계시스템](https://github.com/ByeongKeun/Industrial-AI/tree/master/%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/MICS)	| 21-10-20	| 문서
-
+25 | 3학기 | 산업 컴퓨터 비전 실제 | [영상특징/매칭/파노라마/OpticalFlow](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/3%EC%B0%A8_%EA%B3%BC%EC%A0%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D2)	| 21-11-23	| 문서/Python
+26 | 3학기 | 산업 컴퓨터 비전 실제 | [PCB특징추출 및 매칭](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C/4%EC%B0%A8_Term%20project%20-%20PCB%20%ED%8A%B9%EC%A7%95%EC%B6%94%EC%B6%9C%20%EB%B0%8F%20%EB%A7%A4%EC%B9%AD)	| 21-12-15	| 문서/Python
