@@ -6,6 +6,9 @@
 이메일: bkkim@cnbu.ac.kr
 </p>
  
+ ## 포트폴리오 내역(26건, 21.11.29 Update)
+ - [x] [바로가기](https://github.com/ByeongKeun/Industrial-AI/tree/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%82%B4%EC%97%AD%EC%84%9C) 
+ 
  ## 2020년 2학기 수업
  - [x] [어프렌티스 프로젝트](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 문제해결방법론 교육 및 프로젝트 준비
  - [x] [산업 빅데이터 분석 실제](https://github.com/ByeongKeun/Industrial-AI/tree/master/2020_2_%EC%82%B0%EC%97%85%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%A0%9C): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
