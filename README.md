@@ -6,7 +6,7 @@
 이메일: bkkim@cnbu.ac.kr
 </p>
  
- ## 포트폴리오 내역(27건, 21.11.29 Update)
+ ## 포트폴리오 내역(30건, 22.5.11 Update)
  - [x] [바로가기](https://github.com/ByeongKeun/Industrial-AI/tree/master/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%82%B4%EC%97%AD%EC%84%9C) 
  
  ## 2020년 2학기 수업
