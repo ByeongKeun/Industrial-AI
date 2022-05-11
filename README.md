@@ -16,11 +16,11 @@
  - [x] [딥러닝실제,수](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C): 인공지능시스템의 기본이 되는 신경회로망 및 딥러닝 학습 / 파이썬과 텐서플로우를 이용한 구현 실습 병행
  - [x] [산업인공지능 개론,목](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_1_%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0): 산업현장 적용을 위한, 인공지능 기술의 주요 개념 및 알고리즘을 학습 / 파이썬 기반의 오픈소스 SW를 활용한 실습을 수행하여 실무역량 강화
  ## 2021년 2학기 수업
- - [ ] [산업 컴퓨터비전 실제,수](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C): 컴퓨터 비전 기술 학습과 파이썬 프로그래밍 실습 (사용기술: OpenCV를 통한 필터링/기하학적/측광학적 처리/객체 검출과/인식 등)
- - [ ] [지능화 파일럿 프로젝트,목](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 자율주제(현업 관련된 주제)를 정하고, 수업에서 배운 이론을 이용하여 독자적으로 설계 및 제작하고 최종적으로 결과물을 발표.
+ - [x] [산업 컴퓨터비전 실제,수](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%82%B0%EC%97%85%20%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%20%EC%8B%A4%EC%A0%9C): 컴퓨터 비전 기술 학습과 파이썬 프로그래밍 실습 (사용기술: OpenCV를 통한 필터링/기하학적/측광학적 처리/객체 검출과/인식 등)
+ - [x] [지능화 파일럿 프로젝트,목](https://github.com/ByeongKeun/Industrial-AI/tree/master/2021_2_%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 자율주제(현업 관련된 주제)를 정하고, 수업에서 배운 이론을 이용하여 독자적으로 설계 및 제작하고 최종적으로 결과물을 발표.
  ## 2022년 1학기 수업
- -  
- -  
+ - [ ] [연구윤리 및 연구과제 I,화](https://github.com/ByeongKeun/Industrial-AI/tree/master/2022_1_%EC%97%B0%EA%B5%AC%EC%9C%A4%EB%A6%AC%20%EB%B0%8F%20%EC%97%B0%EA%B5%AC%EA%B3%BC%EC%A0%9C): 학위논문/보고서 작성
+ - [ ] [지능화 캡스톤 프로젝트,수](https://github.com/ByeongKeun/Industrial-AI/tree/master/2022_1_%EC%A7%80%EB%8A%A5%ED%99%94%EC%BA%A1%EC%8A%A4%ED%86%A4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8): 지능화 관련 교과목을 통해 배운 인공지능지식 활용하여 프로젝트를 수행하여 실무능력, 문제해결 skill up
  
  ## 나에게 대학원이란? 
  > *개인적으로는 빅데이터, 인공지능에 대한 일반인들이 아는 정도로만 알고 있었을 뿐,*<br>
