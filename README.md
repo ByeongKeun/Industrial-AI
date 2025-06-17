@@ -3,7 +3,7 @@
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
 </div> 
-이메일: bkkim@cnbu.ac.kr
+이메일: 
 </p>
  
  ## 포트폴리오 내역(30건, 22.5.11 Update)
