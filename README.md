@@ -1,4 +1,4 @@
-# 20학번 김병근
+# 
 <p>
 <div class=insertcode>
 <img src="https://github.com/ByeongKeun/Industrial-AI/raw/master/images/Imoge.gif" border="0" width="50" height="50">
@@ -32,8 +32,8 @@
   
  ## 근무 회사
 ```sh
-   > 2005~2010: MES(Manufacturing Excution System) 개발업체 ........ 개발자
-   > 2010~현재: 청주/오창소재 제조기업 정보팀 근무 중 ............ MES/PDM 프로젝트 기획/구축/운영 및 일부 개발      
+   > 2005~2010 ........ 개발자
+   > 2010~........... MES/PDM 프로젝트 기획/구축/운영 및 일부 개발      
 ```
  ## 역량
  ### 주요업무 기술: 구축/운영 중인 시스템
