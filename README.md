@@ -38,7 +38,7 @@
  ## 역량
  ### 주요업무 기술: 구축/운영 중인 시스템
 <p align="left" margin=100>  
-<img src="./images/Main_System.png"  width="600" height="400">
+<img src="./images/"  width="600" height="400">
 </p>
 
   - 주업무  
